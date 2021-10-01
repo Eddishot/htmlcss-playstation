@@ -24,6 +24,13 @@
     min-height: 600px;
 }
 
+.my-hero-image-2{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    min-height: 600px;
+} 
+
+
 .margin-top-300{
     margin-top: 300px;
 }
@@ -39,5 +46,14 @@
 
 .section-large{
  padding: 80px 0px ;
+}
+
+.image-border{
+    border-radius: 15px;
+}
+
+
+.small-font{
+    font-size: 13px;
 }
 
